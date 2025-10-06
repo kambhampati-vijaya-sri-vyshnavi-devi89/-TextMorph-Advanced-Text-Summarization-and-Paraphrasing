@@ -2,7 +2,7 @@
 
 TextMorph is a Python-based pipeline designed to **extract, summarize, and paraphrase text** from PDF documents. It leverages **pre-trained Hugging Face transformer models** to generate concise summaries and multiple paraphrased variations. The project also includes evaluation metrics and visualizations to identify the most effective models for given datasets.
 
----
+
 
 ## 📂 Project Overview
 
@@ -23,7 +23,7 @@ This project is divided into several milestones. **Milestone 1** focused on unde
 - Evaluating and comparing summaries using ROUGE-1, ROUGE-2, and ROUGE-L.
 - Visualizing runtime, summary length, and quality to choose the best model.
 
----
+
 
 ## 🛠 Features
 
@@ -35,7 +35,7 @@ This project is divided into several milestones. **Milestone 1** focused on unde
 - Visualize quality, runtime, and summary length for comparison.
 - Save all outputs in an organized folder and display previews in the notebook.
 
----
+
 
 ## 📌 Hugging Face Models Used
 
@@ -62,7 +62,7 @@ This project is divided into several milestones. **Milestone 1** focused on unde
 - **Pegasus-xsum** was the most concise but sometimes lost details.  
 - ROUGE evaluation and visualizations helped determine the best model for each dataset.
 
----
+
 
 ## 📁 Datasets
 
@@ -72,6 +72,6 @@ This project is divided into several milestones. **Milestone 1** focused on unde
 2. **Neuroscience**  
 [Download Link](https://drive.google.com/file/d/1jeJ3hdS_0rkKlWgbycCDHDQb3Tk0vLf7/view?usp=sharing)
 
----
+
 
 
