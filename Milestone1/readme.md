@@ -57,6 +57,9 @@ Model Selection Insight:
 - Computer Networks (Andrew S. Tanenbaum): [Download Link](https://drive.google.com/file/d/1lLUYb5dpVBb-fh82nGR9FJhDcud1ZdzC/view?usp=sharing)
 - Neuroscience: [Download Link](https://drive.google.com/file/d/1jeJ3hdS_0rkKlWgbycCDHDQb3Tk0vLf7/view?usp=sharing)
 
+## 📄 Milestone-1 Report  
+This PDF explains each code cell in detail, describing its function and purpose in the TextMorph project.  
+[View Milestone-1 Report](https://drive.google.com/file/d/1jiTHByMTKLmBmjmVZPPPCgxAVQJXOtMO/view?usp=sharing)
 
 
 
