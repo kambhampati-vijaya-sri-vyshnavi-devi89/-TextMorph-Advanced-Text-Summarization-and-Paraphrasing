@@ -1,7 +1,7 @@
 #  TextMorph – Multi-Model Text Summarization Project  
 **Infosys Springboard Virtual Internship – Milestone 2**
 
----
+
 
 ##  Project Overview  
 This project, **TextMorph**, was developed as part of the Infosys Springboard Virtual Internship under the **Generative AI** module (Milestone 2).  
@@ -10,12 +10,12 @@ The main goal of this project was to build a **text summarization system** that 
 The project was implemented in **Google Colab** using **Hugging Face Transformers** and other NLP libraries.  
 An **interactive UI** was created using `ipywidgets` to make it easier to test, compare, and visualize results from multiple models.
 
----
+
 
 ##  Aim  
 The aim of this project is to compare and analyze the performance of multiple AI models for **text summarization** and understand how different models handle meaning, fluency, and readability.
 
----
+
 
 ##  Objectives  
 - To explore and implement **different summarization techniques** (abstractive and extractive).  
@@ -24,7 +24,7 @@ The aim of this project is to compare and analyze the performance of multiple AI
 - To evaluate the performance using metrics like **ROUGE**, **Semantic Similarity**, **Readability**, and **Processing Time**.  
 - To test and compare model results on **10 different domains of text**.  
 
----
+
 
 ##  Models Used  
 
@@ -36,7 +36,7 @@ The aim of this project is to compare and analyze the performance of multiple AI
 | **Gemma-2B-IT** | Abstractive | Google DeepMind | Instruction-tuned model built for summarization and text generation. |
 | **TextRank** | Extractive | NLTK / NetworkX | A classic algorithm that extracts key sentences based on graph ranking. |
 
----
+
 
 ##  Tools and Libraries Used  
 - **Google Colab (GPU Runtime)**  
@@ -50,7 +50,7 @@ The aim of this project is to compare and analyze the performance of multiple AI
 - **Matplotlib, Pandas**  
 - **Ipywidgets**  
 
----
+
 
 ##  Evaluation Metrics  
 
@@ -61,7 +61,7 @@ The aim of this project is to compare and analyze the performance of multiple AI
 | **Readability (Flesch / Gunning Fog)** | Measures how easy it is to read and understand the summary. |
 | **Processing Time** | Calculates how long each model takes to generate the summary. |
 
----
+
 
 ##  Domains Used for Testing  
 To make the evaluation fair and diverse, I tested the system on **10 different types of text**:  
@@ -76,7 +76,7 @@ To make the evaluation fair and diverse, I tested the system on **10 different t
 9. Literature & Culture  
 10. Research & Innovation  
 
----
+
 
 ##  Results and Observations  
 
@@ -88,7 +88,7 @@ To make the evaluation fair and diverse, I tested the system on **10 different t
 | **Gemma-2B-IT** | Most fluent and human-like summaries. | Requires more computation. | Best for natural language fluency. |
 | **TextRank** | Simple and transparent. | Doesn’t rephrase content. | Good for extractive tasks. |
 
----
+
 
 ##  Conclusion  
 After testing across 10 domains and evaluating all metrics, I found that:  
@@ -100,7 +100,7 @@ After testing across 10 domains and evaluating all metrics, I found that:
 
  **Final Verdict:** Phi-2 is the most balanced model overall in terms of quality and speed.
 
----
+
 
 ## 💡 What I Learned  
 - Gained practical experience using **transformer-based NLP models**.  
@@ -109,7 +109,7 @@ After testing across 10 domains and evaluating all metrics, I found that:
 - Got hands-on with **interactive UI design** using ipywidgets.  
 - Learned how **model choice depends on task size, speed, and accuracy requirements**.  
 
----
+
 
 ##  Project Report  
 A complete report was prepared covering:  
@@ -121,17 +121,11 @@ A complete report was prepared covering:
 
 📘 **Project Report:** [`TextMorph_Project_Report.pdf`](https://drive.google.com/file/d/1c83YJ8wmfOERcacRhoXgrVJ0Z3ELSqid/view?usp=sharing )
 
----
+
 
 ##  Project Outputs  
 All outputs and evaluations from all 10 domains are compiled into one file.  
  **Combined Output PDF:** [`TextMorph_All_In_One_Final.pdf`](https://drive.google.com/file/d/10U-ApF2pKZjLb-9wUwwHII-Fq3JBgLuT/view?usp=sharing)
 
 
----
 
-
-
----
-
-## 🔗 Repository Structure  
