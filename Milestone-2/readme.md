@@ -119,13 +119,13 @@ A complete report was prepared covering:
 - Charts, graphs, and metric tables  
 - Final observations and conclusions  
 
-📘 **Project Report:** [`TextMorph_Project_Report.pdf`](https://drive.google.com/file/d/1c83YJ8wmfOERcacRhoXgrVJ0Z3ELSqid/view?usp=sharing )
+📘 **Project Report:** [`TextMorph_Project_Report.pdf`](https://drive.google.com/file/d/129tebmKHY801NjJIvmB6scOsM5t6bN-S/view?usp=sharing )
 
 
 
 ##  Project Outputs  
 All outputs and evaluations from all 10 domains are compiled into one file.  
- **Combined Output PDF:** [`TextMorph_All_In_One_Final.pdf`](https://drive.google.com/file/d/10U-ApF2pKZjLb-9wUwwHII-Fq3JBgLuT/view?usp=sharing)
+ **Combined Output PDF:** [`TextMorph_All_In_One_Final.pdf`](https://drive.google.com/file/d/1u7K14kd9iOsmPLAJSTdt64fJaZCnAXwR/view?usp=sharing)
 
 
 
