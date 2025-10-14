@@ -37,11 +37,11 @@ The aim of this project is to compare and analyze the performance of multiple AI
 | **TextRank** | Extractive | NLTK / NetworkX | A classic algorithm that extracts key sentences based on graph ranking. |
 
 ###  Why Gemma Needs HF Token
-# Google Gemma (google/gemma-2b-it) is a gated model on Hugging Face.
-# It requires users to:
-#  • Accept its license on Hugging Face
-#  • Authenticate using an HF Token
-# This ensures that only authorized users who accepted the license can access the model weights.
+ Google Gemma (google/gemma-2b-it) is a gated model on Hugging Face.
+ It requires users to:
+ Accept its license on Hugging Face
+ Authenticate using an HF Token
+ This ensures that only authorized users who accepted the license can access the model weights.
 
 ###  Token Setup Details
 1. Created Hugging Face account → https://huggingface.co/
