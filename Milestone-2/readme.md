@@ -102,6 +102,11 @@ To make the evaluation fair and diverse, I tested the system on **10 different t
 | **Gemma-2B-IT** | Most fluent and human-like summaries. | Requires more computation. | Best for natural language fluency. |
 | **TextRank** | Simple and transparent. | Doesn’t rephrase content. | Good for extractive tasks. |
 
+## 🔥 Model Heatmap Visualization
+
+Here’s the heatmap generated from the model’s output:
+
+![Model Heatmap](./heatmap.png)
 
 
 ##  Conclusion  
