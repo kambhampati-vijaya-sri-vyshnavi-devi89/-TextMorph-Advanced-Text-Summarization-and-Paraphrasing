@@ -36,6 +36,20 @@ The aim of this project is to compare and analyze the performance of multiple AI
 | **Gemma-2B-IT** | Abstractive | Google DeepMind | Instruction-tuned model built for summarization and text generation. |
 | **TextRank** | Extractive | NLTK / NetworkX | A classic algorithm that extracts key sentences based on graph ranking. |
 
+###  Why Gemma Needs HF Token
+# Google Gemma (google/gemma-2b-it) is a gated model on Hugging Face.
+# It requires users to:
+#  • Accept its license on Hugging Face
+#  • Authenticate using an HF Token
+# This ensures that only authorized users who accepted the license can access the model weights.
+
+###  Token Setup Details
+1. Created Hugging Face account → https://huggingface.co/
+2. Generated Read Access Token → Profile > Settings > Access Tokens
+3. Accepted Gemma License → https://huggingface.co/google/gemma-2b-it
+4. Used GPU runtime in Google Colab → Runtime > Change runtime type > GPU
+5. **Logged in interactively using `login()` method (not via Colab Secrets).**
+6. After successful login, loaded Gemma model using the provided token.
 
 
 ##  Tools and Libraries Used  
